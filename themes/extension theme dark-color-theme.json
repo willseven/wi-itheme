@@ -15,7 +15,8 @@
 		"menu.background": "#1a1e25",
 		"menu.foreground": "#cccccc",
 		"ports.iconRunningProcessForeground": "#369432",
-		"sideBarSectionHeader.background": "#2b2d33",
+		// menu bar 
+		"sideBarSectionHeader.background": "#1e2025c0",
 		"sideBarSectionHeader.border": "#cccccc33",
 		"sideBarTitle.foreground": "#bbbbbb",
 		"statusBarItem.remoteBackground": "#16825d",
@@ -37,7 +38,8 @@
 		"editorGroupHeader.tabsBackground": "#17191d",
 		// "editorGroupHeader.noTabsBackground": "#fff",
 		"editorWidget.background": "#17191d",
-		"input.background": "#2b2d33",
+		"input.background": "#1a1d24",
+		// list explorer
 		"list.hoverBackground": "#17191d",
 		"list.activeSelectionBackground": "#094771",
 		"list.inactiveSelectionBackground": "#17191d",
